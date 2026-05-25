@@ -1,0 +1,6 @@
+Arduino UNO
+Fingerprint Sensor
+Servo Motor
+Buzzer
+Breadboard
+Jumper Wires
