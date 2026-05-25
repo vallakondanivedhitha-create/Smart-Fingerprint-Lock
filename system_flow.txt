@@ -1,0 +1,7 @@
+Fingerprint Scan
+       ↓
+Fingerprint Match
+   ↓          ↓
+ YES         NO
+ ↓            ↓
+Door Opens   Access Denied
