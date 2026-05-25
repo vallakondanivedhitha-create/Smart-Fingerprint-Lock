@@ -1,0 +1,14 @@
+  Project Name: Fingerprint Door Lock System
+
+Domain: Embedded Systems
+
+Description:
+This project uses fingerprint authentication to unlock a door using Arduino and servo motor.
+
+Software Used:
+Arduino IDE
+
+Applications:
+Home Security
+Office Security
+Smart Lock Systems
